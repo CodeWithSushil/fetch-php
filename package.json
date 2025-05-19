@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vitepress dev docs",
+        "build": "vitepress build docs",
+        "preview": "vitepress preview docs",
+        "prepare": "husky"
+    },
+    "devDependencies": {
+        "@types/node": "^22.15.18",
+        "husky": "^9.1.7",
+        "terser": "^5.39.2",
+        "vitepress": "latest"
+    }
+}
