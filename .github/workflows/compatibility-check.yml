@@ -3,7 +3,7 @@ name: Compatibility Check
 on:
   push:
     branches:
-      - main
+      - master
       - refactor/**
       - feature/**
       - fix/**
