@@ -1,6 +1,6 @@
 # Fetch PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/jerome/fetch-php.svg)](https://packagist.org/packages/jerome/fetch-php)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/CodeWithSushil/fetch-php.svg)](https://packagist.org/packages/CodeWithSushil/fetch-php)
 [![Tests](https://github.com/Thavarshan/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=main)](https://github.com/Thavarshan/fetch-php/actions/workflows/tests.yml)
 [![Lint](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml)
 [![CodeQL](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql)
@@ -50,7 +50,7 @@ While Guzzle is a powerful HTTP client, Fetch PHP enhances the experience by pro
 ## Installation
 
 ```bash
-composer require jerome/fetch-php
+composer require fetchphp/fetch
 ```
 
 > **Requirements**: PHP 8.1 or higher

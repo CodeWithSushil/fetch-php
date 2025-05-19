@@ -1,20 +1,19 @@
 {
-    "name": "jerome/fetch-php",
+    "name": "fetchphp/fetch",
     "description": "The JavaScript fetch API for PHP.",
-    "version": "3.2.2",
     "type": "library",
+    "keywords": [
+        "fetch",
+        "fetchphp",
+        "fetch-php"
+    ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jerome Thayananthajothy",
-            "email": "tjthavarshan@gmail.com"
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
         }
     ],
-    "homepage": "https://fetch-php.thavarshan.com",
-    "support": {
-        "issues": "https://github.com/Thavarshan/fetch-php/issues",
-        "source": "https://github.com/Thavarshan/fetch-php"
-    },
     "autoload": {
         "psr-4": {
             "Fetch\\": "src/Fetch/"
@@ -49,9 +48,9 @@
         }
     },
     "scripts": {
-        "lint": "chmod +x bin/lint.sh && ./bin/lint.sh",
-        "fix": "chmod +x bin/fix.sh && ./bin/fix.sh",
-        "test": "chmod +x bin/test.sh && ./bin/test.sh"
+        "lint": "pint",
+        "test": "phpunit",
+        "type": "phpstan"
     },
     "config": {
         "sort-packages": true,
