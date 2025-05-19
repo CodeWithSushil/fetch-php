@@ -1,7 +1,7 @@
 # Fetch PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/CodeWithSushil/fetch-php.svg)](https://packagist.org/packages/CodeWithSushil/fetch-php)
-[![Tests](https://github.com/Thavarshan/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=main)](https://github.com/Thavarshan/fetch-php/actions/workflows/tests.yml)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
+[![Tests](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=master)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml)
 [![Lint](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml)
 [![CodeQL](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql)
 [![PHPStan](https://img.shields.io/badge/PHPStan-level%20max-brightgreen.svg)](https://phpstan.org/)
