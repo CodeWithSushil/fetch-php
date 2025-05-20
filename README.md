@@ -1,14 +1,12 @@
 # Fetch PHP
-
+[![Fetch PHP](./assets/banner.png)]
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 [![Tests](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=master)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml)
-[![Lint](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/lint.yml)
-[![CodeQL](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Thavarshan/fetch-php/actions/workflows/github-code-scanning/codeql)
+[![CodeQL](https://github.com/CodeWithSushil/fetch-php/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/github-code-scanning/codeql)
 [![PHPStan](https://img.shields.io/badge/PHPStan-level%20max-brightgreen.svg)](https://phpstan.org/)
-[![PHP Version](https://img.shields.io/packagist/php-v/jerome/fetch-php.svg)](https://packagist.org/packages/jerome/fetch-php)
-[![License](https://img.shields.io/packagist/l/jerome/fetch-php.svg)](https://packagist.org/packages/jerome/fetch-php)
-[![Total Downloads](https://img.shields.io/packagist/dt/jerome/fetch-php.svg)](https://packagist.org/packages/jerome/fetch-php)
-[![GitHub Stars](https://img.shields.io/github/stars/Thavarshan/fetch-php.svg?style=social&label=Stars)](https://github.com/Thavarshan/fetch-php/stargazers)
+[![PHP Version](https://img.shields.io/packagist/php-v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
+[![License](https://img.shields.io/packagist/l/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
+[![Total Downloads](https://img.shields.io/packagist/dt/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 
 **Fetch PHP** is a modern HTTP client library for PHP that brings JavaScript's `fetch` API experience to PHP. Built on top of Guzzle, Fetch PHP allows you to write HTTP code with a clean, intuitive JavaScript-like syntax while still maintaining PHP's familiar patterns.
 
