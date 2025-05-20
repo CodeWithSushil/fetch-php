@@ -1,9 +1,7 @@
 # Fetch PHP
-[![Fetch PHP](./assets/banner.png)]
+[![Fetch PHP](/assets/Banner.png)]
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 [![Tests](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=master)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml)
-[![CodeQL](https://github.com/CodeWithSushil/fetch-php/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/github-code-scanning/codeql)
-[![PHPStan](https://img.shields.io/badge/PHPStan-level%20max-brightgreen.svg)](https://phpstan.org/)
 [![PHP Version](https://img.shields.io/packagist/php-v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 [![License](https://img.shields.io/packagist/l/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 [![Total Downloads](https://img.shields.io/packagist/dt/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
