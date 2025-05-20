@@ -50,6 +50,7 @@ composer require fetchphp/fetch
 ```
 
 > **Requirements**: PHP 8.1 or higher
+> **Original and official**: composer require jerome/fetch-php
 
 ## Basic Usage
 
