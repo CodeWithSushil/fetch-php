@@ -1,5 +1,5 @@
 # Fetch PHP
-[![Fetch PHP](/assets/Banner.png)]
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
 [![Tests](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml/badge.svg?label=tests&branch=master)](https://github.com/CodeWithSushil/fetch-php/actions/workflows/tests.yml)
 [![PHP Version](https://img.shields.io/packagist/php-v/fetchphp/fetch.svg)](https://packagist.org/packages/fetchphp/fetch)
